@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dreamcast Link",
+  "universe": "NGPC · The Dreamcast Link (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Dreamcast Link:NGPC:012b5e⟧",
+  "carbon": "the-ngpc-dclink.carbon.tiff (TIFF)",
+  "silicon": "the-ngpc-dclink.silicon.png (PNG)",
+  "seal_sha256": "d364afe95ba4488a30ce7b01d0774b12ef78c980b9cd7a637612b281716f669e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

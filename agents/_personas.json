@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-ngpc-cpu",
+    "name": "The TLCS-900H",
+    "epithet": "a capable 16-bit · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The TLCS-900H:NGPC:a14f03⟧"
+  },
+  {
+    "slug": "the-ngpc-z80",
+    "name": "The Z80",
+    "epithet": "a brain for audio · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Z80:NGPC:b82fea⟧"
+  },
+  {
+    "slug": "the-ngpc-stick",
+    "name": "The Clicky Stick",
+    "epithet": "eight directions, with a click · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Clicky Stick:NGPC:cbf9a0⟧"
+  },
+  {
+    "slug": "the-ngpc-screen",
+    "name": "The Screen",
+    "epithet": "non-backlit colour · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Screen:NGPC:db0bfe⟧"
+  },
+  {
+    "slug": "the-ngpc-battery",
+    "name": "The Batteries",
+    "epithet": "about forty hours · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Batteries:NGPC:53dbf6⟧"
+  },
+  {
+    "slug": "the-ngpc-dclink",
+    "name": "The Dreamcast Link",
+    "epithet": "handheld meets console · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Dreamcast Link:NGPC:012b5e⟧"
+  }
+]

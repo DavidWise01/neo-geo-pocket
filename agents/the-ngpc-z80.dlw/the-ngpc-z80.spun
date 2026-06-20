@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Z80
+node NGPC · NGPC · ⟦The Z80:NGPC:b82fea⟧
+
+WHO   — The Z80 — a brain for audio · electrical
+WHAT  — a brain for audio · electrical
+WHERE — NGPC · SNK NEO GEO POCKET COLOR (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A Zilog Z80 dedicated to sound — three channels plus noise, SNK's familiar audio approach shrunk into the palm.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  a brain for audio · electrical
+
+spoken token : xeix-broth-rox   ·   hex : b82fea
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

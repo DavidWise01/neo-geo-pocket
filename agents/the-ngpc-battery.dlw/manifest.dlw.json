@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Batteries",
+  "universe": "NGPC · The Batteries (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Batteries:NGPC:53dbf6⟧",
+  "carbon": "the-ngpc-battery.carbon.tiff (TIFF)",
+  "silicon": "the-ngpc-battery.silicon.png (PNG)",
+  "seal_sha256": "ff24e5ee90fc002e3f9cf3e7bdbd0cc65aa8ee0d2458bae75beaa171ae5e392a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
